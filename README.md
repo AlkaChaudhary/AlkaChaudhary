@@ -14,8 +14,11 @@
 - Java
 - Selenium
 - TestNg
+- Maven
 - BDD Cucumber
 - Page Object Model
+- Jenkins
+- Postman
 
 <!--
 **AlkaChaudhary/AlkaChaudhary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
