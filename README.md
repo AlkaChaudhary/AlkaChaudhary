@@ -3,10 +3,10 @@
 ### Automation Tester
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-- 🔭 I’m currently working on **WeDriverIO**.
-- 🌱 I’m currently learning **WebDriverIO**.
+- 🔭 I’m currently working on **LEAPWORK Automating Tool**.
+- 🌱 I’m currently learning **LEAPWORK**.
 - 👯 I’m looking to collaborate on **API** **Tesing**, **Java** **with** **Selenium** **Framework**.
-- 💬 Ask me about **Selenium**, **TestNg**, **Java**, **BDD** **Cucumber**, **Page** **Object** **Model**.
+- 💬 Ask me about **Selenium**, **TestNg**, **Java**, **BDD** **Cucumber**, **Page** **Object** **Model**, **Appium**, **WebDriverIO**.
 - 📄 Know about my experiences https://www.linkedin.com/in/alka-chaudhary-174b287/.
 
 **Languages and Tools:**
